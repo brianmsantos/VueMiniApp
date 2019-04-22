@@ -1,0 +1,2 @@
+# VueMiniApp
+uses dynamic animations
